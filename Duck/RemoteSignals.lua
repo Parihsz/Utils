@@ -1,0 +1,3 @@
+local remoteSignals = {}
+
+return remoteSignals

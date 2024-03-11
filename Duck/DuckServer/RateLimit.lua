@@ -1,0 +1,3 @@
+local RateLimit = {}
+
+return RateLimit
